@@ -1,4 +1,4 @@
-## About Me<br><br>I'm currently working on improving my programming and development skills<br><br>I'm currently learning Cloud Computing and exploring new technologies<br><br>I'm looking to collaborate on interesting projects and open-source contributions<br><br>Ask me about Python, Java and GitHub<br><br>Fun fact: I enjoy learning by building projects and solving problems
+## About Me<br><br>->I'm currently working on improving my programming and development skills<br><br>->I'm currently learning Cloud Computing and exploring new technologies<br><br>->I'm looking to collaborate on interesting projects and open-source contributions<br><br-></br->Ask me about Python, Java and GitHub<br><br>->Fun fact: I enjoy learning by building projects and solving problems
 
 
 ## 🌐 Socials:
